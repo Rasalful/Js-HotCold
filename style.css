@@ -1,0 +1,23 @@
+#gauche {
+  width: 70%;
+  height: 300px;
+  border: 1px solid black;
+  float: left;
+}
+
+#droite {
+  width: 29%;
+  height: 300px;
+  border: 1px solid black;
+  float: right;
+
+}
+
+#devinez {
+  text-align: justify;
+}
+
+#button {
+  width: 60px;
+  height: 30px;
+}
